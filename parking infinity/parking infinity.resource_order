@@ -15,10 +15,16 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"platforms","order":2,"path":"folders/Objects/platforms.yy",},
-    {"name":"platforms","order":2,"path":"folders/Sprites/platforms.yy",},
+    {"name":"platforms","order":1,"path":"folders/Objects/platforms.yy",},
+    {"name":"platforms","order":1,"path":"folders/Sprites/platforms.yy",},
+    {"name":"main","order":2,"path":"folders/Objects/main.yy",},
+    {"name":"main","order":2,"path":"folders/Sprites/main.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_platform_long","order":1,"path":"objects/obj_platform_long/obj_platform_long.yy",},
+    {"name":"spr_exit","order":1,"path":"sprites/spr_exit/spr_exit.yy",},
+    {"name":"obj_parent_collision","order":2,"path":"objects/obj_parent_collision/obj_parent_collision.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"rm_room2","order":1,"path":"rooms/rm_room2/rm_room2.yy",},
   ],
 }
