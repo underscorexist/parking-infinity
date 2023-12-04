@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -26,6 +26,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"platforms","folderPath":"folders/Objects/platforms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"platforms","folderPath":"folders/Sprites/platforms.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -34,6 +36,9 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"spr_platform_long","path":"sprites/spr_platform_long/spr_platform_long.yy",},},
+    {"id":{"name":"obj_parent_platform","path":"objects/obj_parent_platform/obj_parent_platform.yy",},},
+    {"id":{"name":"obj_platform_long","path":"objects/obj_platform_long/obj_platform_long.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
