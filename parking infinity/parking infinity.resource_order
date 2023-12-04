@@ -23,7 +23,9 @@
   "ResourceOrderSettings": [
     {"name":"obj_platform_long","order":1,"path":"objects/obj_platform_long/obj_platform_long.yy",},
     {"name":"spr_exit","order":1,"path":"sprites/spr_exit/spr_exit.yy",},
+    {"name":"obj_game","order":3,"path":"objects/obj_game/obj_game.yy",},
     {"name":"obj_parent_collision","order":2,"path":"objects/obj_parent_collision/obj_parent_collision.yy",},
+    {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"rm_room2","order":1,"path":"rooms/rm_room2/rm_room2.yy",},
   ],
